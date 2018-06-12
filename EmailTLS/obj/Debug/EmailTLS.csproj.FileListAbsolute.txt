@@ -1,0 +1,5 @@
+D:\Group\SI\VS2013\EnvioEmailTLS\EmailTLS\bin\Debug\EmailTLS.dll
+D:\Group\SI\VS2013\EnvioEmailTLS\EmailTLS\bin\Debug\EmailTLS.pdb
+D:\Group\SI\VS2013\EnvioEmailTLS\EmailTLS\obj\Debug\EmailTLS.dll
+D:\Group\SI\VS2013\EnvioEmailTLS\EmailTLS\obj\Debug\EmailTLS.pdb
+D:\Group\SI\VS2013\EnvioEmailTLS\EmailTLS\obj\Debug\EmailTLS.csprojResolveAssemblyReference.cache
